@@ -1,0 +1,14 @@
+
+{
+  "name": "house-rental-app",
+  "version": "1.0.0",
+  "description": "Full-stack version of the House Rental website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
